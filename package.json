@@ -1,5 +1,6 @@
 {
   "name": "percentage-calculator",
+  "homepage": "https://aseloeeee.github.io//percentage-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,7 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0",
-    "homepage": "https://aseloeeee.github.io//percentage-calculator"
+    "gh-pages": "^6.2.0"
   }
 }
