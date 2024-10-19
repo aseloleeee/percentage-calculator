@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/percentage-calculator/static/css/main.9d2c4429.css",
+    "main.js": "/percentage-calculator/static/js/main.8fac2077.js",
+    "static/js/453.818d1d42.chunk.js": "/percentage-calculator/static/js/453.818d1d42.chunk.js",
+    "index.html": "/percentage-calculator/index.html",
+    "main.9d2c4429.css.map": "/percentage-calculator/static/css/main.9d2c4429.css.map",
+    "main.8fac2077.js.map": "/percentage-calculator/static/js/main.8fac2077.js.map",
+    "453.818d1d42.chunk.js.map": "/percentage-calculator/static/js/453.818d1d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d2c4429.css",
+    "static/js/main.8fac2077.js"
+  ]
+}
