@@ -39,6 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0",
-    "homepage": "https://<username>.github.io/<repo-name>"
+    "homepage": "https://aseloeeee.github.io//percentage-calculator"
   }
 }
